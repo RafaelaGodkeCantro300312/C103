@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(163, 219, 254);
+}
+
+#button1 {
+    background-color:rgb(70, 193, 255);
+    border-radius:7px;
+}
+
+#buttonCheck {
+    background-color:rgb(70, 193, 255);
+    border-radius:7px;
+}
+
+h3 {
+    background-color:rgb(113, 183, 231);
+    border-radius:7px;
+}
